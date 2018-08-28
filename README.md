@@ -11,3 +11,6 @@ The idea is to have both the networks trained such that the generator becomes go
 ## Generating MNIST data
 * [Simple GAN](mnist_simplegan.ipynb)
 * [DCGAN](mnist_dcgan.ipynb)
+
+## Generating CIFAR images
+* [DCGAN CIFAR-10](cifar10_dcgan.ipynb)
